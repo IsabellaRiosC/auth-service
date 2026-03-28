@@ -1,0 +1,9 @@
+src/main/java/com/nttdata/authservice/generated/api/ApiUtil.java
+src/main/java/com/nttdata/authservice/generated/api/AuthApi.java
+src/main/java/com/nttdata/authservice/generated/api/AuthApiDelegate.java
+src/main/java/com/nttdata/authservice/generated/model/LoginRequest.java
+src/main/java/com/nttdata/authservice/generated/model/LoginResponse.java
+src/main/java/com/nttdata/authservice/generated/model/LogoutRequest.java
+src/main/java/com/nttdata/authservice/generated/model/TokenRefreshRequest.java
+src/main/java/com/nttdata/authservice/generated/model/TokenRefreshResponse.java
+src/main/java/com/nttdata/authservice/generated/model/UserProfileResponse.java

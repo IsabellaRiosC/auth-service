@@ -1,0 +1,15 @@
+services:
+  auth-service:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: auth-service
+    image: nttdata/auth-service:1.0.0
+    ports:
+      - "7001:7001"
+    environment:
+      - SPRING_PROFILES_ACTIVE=dev
+      - SPRING_CONFIG_IMPORT=optional:configserver:http://host.docker.internal:8888
+      - EUREKA_CLIENT_SERVICEURL_DEFAULTZONE=http://host.docker.internal:8761/eureka
+      - SPRING_DATA_MONGODB_URI=mongodb://host.docker.internal:27019/auth_db
+    restart: unless-stopped

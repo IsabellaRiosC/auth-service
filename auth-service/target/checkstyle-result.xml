@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.12.4">
+<file name="D:\Proyecto\NTTFinal\Microservicios\auth-service\src\main\java\com\nttdata\authservice\api\dto\LoginRequestDto.java">
+</file>
+<file name="D:\Proyecto\NTTFinal\Microservicios\auth-service\src\main\java\com\nttdata\authservice\api\dto\LoginResponseDto.java">
+</file>
+<file name="D:\Proyecto\NTTFinal\Microservicios\auth-service\src\main\java\com\nttdata\authservice\api\dto\LogoutRequestDto.java">
+</file>
+<file name="D:\Proyecto\NTTFinal\Microservicios\auth-service\src\main\java\com\nttdata\authservice\api\dto\TokenRefreshRequestDto.java">
+</file>
+<file name="D:\Proyecto\NTTFinal\Microservicios\auth-service\src\main\java\com\nttdata\authservice\api\dto\TokenRefreshResponseDto.java">
+</file>
+<file name="D:\Proyecto\NTTFinal\Microservicios\auth-service\src\main\java\com\nttdata\authservice\api\dto\UserProfileResponseDto.java">
+</file>
+<file name="D:\Proyecto\NTTFinal\Microservicios\auth-service\src\main\java\com\nttdata\authservice\AuthServiceApplication.java">
+</file>
+<file name="D:\Proyecto\NTTFinal\Microservicios\auth-service\src\main\java\com\nttdata\authservice\domain\mapper\AuthMapper.java">
+</file>
+<file name="D:\Proyecto\NTTFinal\Microservicios\auth-service\src\main\java\com\nttdata\authservice\domain\policy\AuthValidationPolicy.java">
+</file>
+<file name="D:\Proyecto\NTTFinal\Microservicios\auth-service\src\main\java\com\nttdata\authservice\domain\policy\TokenPolicy.java">
+</file>
+<file name="D:\Proyecto\NTTFinal\Microservicios\auth-service\src\main\java\com\nttdata\authservice\domain\port\AuthUseCase.java">
+</file>
+<file name="D:\Proyecto\NTTFinal\Microservicios\auth-service\src\main\java\com\nttdata\authservice\domain\port\UserIdentityPort.java">
+</file>
+<file name="D:\Proyecto\NTTFinal\Microservicios\auth-service\src\main\java\com\nttdata\authservice\domain\service\AuthService.java">
+</file>
+<file name="D:\Proyecto\NTTFinal\Microservicios\auth-service\src\main\java\com\nttdata\authservice\domain\service\impl\AuthServiceImpl.java">
+</file>
+<file name="D:\Proyecto\NTTFinal\Microservicios\auth-service\src\main\java\com\nttdata\authservice\infrastructure\decorator\LoggingAuthUseCaseDecorator.java">
+</file>
+<file name="D:\Proyecto\NTTFinal\Microservicios\auth-service\src\main\java\com\nttdata\authservice\infrastructure\mongodb\MongoUserDataInitializer.java">
+</file>
+<file name="D:\Proyecto\NTTFinal\Microservicios\auth-service\src\main\java\com\nttdata\authservice\infrastructure\mongodb\MongoUserIdentityAdapter.java">
+</file>
+<file name="D:\Proyecto\NTTFinal\Microservicios\auth-service\src\main\java\com\nttdata\authservice\infrastructure\mongodb\UserDocument.java">
+</file>
+<file name="D:\Proyecto\NTTFinal\Microservicios\auth-service\src\main\java\com\nttdata\authservice\infrastructure\mongodb\UserMongoRepository.java">
+</file>
+</checkstyle>

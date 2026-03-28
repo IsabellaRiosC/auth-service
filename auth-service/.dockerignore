@@ -1,0 +1,38 @@
+# Git
+.git
+.gitignore
+.gitattributes
+
+# IDE
+.idea
+.vscode
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Maven
+target/
+.m2/
+*.log
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Documentation
+README.md
+docs/
+*.md
+
+# Build artifacts
+*.jar
+*.class
+*.o
+*.a
+*.so
+
+# Test files
+.pytest_cache
+__pycache__
